@@ -2,7 +2,7 @@
 
 function App() {
 
-  const categories = [
+  const categories =  [
     "tv sarjat",
     "elokuvat",
     "lautapelit",
